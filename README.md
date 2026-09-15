@@ -1,9 +1,8 @@
 # apna-college Demo
 <b>
   Ddmo
-Author shafqat shah
-devops 
-sdsds
+Author shafqat shah (apna college)
 <b>
-  sfgsjhgfjsgjf
+  Devops:
 </b>
+
